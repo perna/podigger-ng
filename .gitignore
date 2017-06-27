@@ -1,0 +1,5 @@
+.vscode/
+.idea/
+podigger_ng/.env.prod
+*.pyc
+__pycache__
